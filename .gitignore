@@ -1,0 +1,8 @@
+**/node_modules
+**/.env
+**/.env.local
+
+api/.idea
+api/dist
+
+web/.next
